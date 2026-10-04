@@ -1,0 +1,6 @@
+{
+  "name": "ホラフキンAI - 100%嘘八百チャットボット",
+  "description": "どんな質問にも100%嘘だとわかる超ド級のホラ・荒唐無稽な理由・珍説を大真面目に答えるAIチャットボット。真実度0.00%の極上エンタメ体験！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
